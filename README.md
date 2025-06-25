@@ -45,8 +45,7 @@
 2. Run all cells (data ➡️ model ➡️ inference)  
 3. Drop your own images into `/prediction/` and call:
 
- ```python
-   print(predict_image('prediction/your_fruit.jpg'))
+
 
 
   
